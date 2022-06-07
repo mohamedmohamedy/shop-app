@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import '../screens/order_screen.dart';
-import '../screens/user_screen.dart';
 import '../providers/auth.dart';
 
 class TheDrawer extends StatelessWidget {
@@ -27,11 +26,7 @@ class TheDrawer extends StatelessWidget {
               onTap: () =>
                   Navigator.of(context).pushNamed(OrderScreen.routeName)),
           Divider(),
-          ListTile(
-            leading: Icon(Icons.edit),
-            title: Text('Your products'),
-            onTap: () => Navigator.of(context).pushNamed(UserScreen.routeName),
-          ),
+         
           Divider(),
           ListTile(
               leading: Icon(Icons.exit_to_app),
