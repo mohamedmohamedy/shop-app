@@ -29,3 +29,6 @@ this project i built it with Flutter SDK >=2.5.0
 <p align="center">
 <img screenshot-1654612890711 src="https://user-images.githubusercontent.com/80913778/172410734-4b6b2fc2-eaa6-433a-9a2d-bb9c9e2d48d2.png" width="200" height="400>
 </p>
+< align="center">
+<img screenshot-1654615434567 src="https://user-images.githubusercontent.com/80913778/172419498-2b3970ca-66c0-49bf-8349-46fab9704474.png" width="200" height="400">
+</p>
